@@ -1,0 +1,1 @@
+# ninja_generator_template
