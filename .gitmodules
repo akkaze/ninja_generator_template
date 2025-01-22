@@ -1,0 +1,3 @@
+[submodule "ninja_generator"]
+	path = ninja_generator
+	url = git@github.com:akkaze/ninja_generator.git
